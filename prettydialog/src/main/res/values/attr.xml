@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="titleColor" format="reference|color"/>
+    <attr name="backgroundColor" format="reference|color"/>
+    <attr name="buttonNeutralTitleColor" format="reference|color"/>
+    <attr name="buttonPositiveTitleColor" format="reference|color"/>
+    <attr name="buttonNegativeTitleColor" format="reference|color"/>
+    <attr name="separatorColor" format="reference|color"/>
+
+    <item name="buttonTypeTag" type="id" />
+</resources>
